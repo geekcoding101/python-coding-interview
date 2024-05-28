@@ -8,6 +8,8 @@ It is designed to help both you and me learn Python and prepare for Python codin
 
 The repository is organized as Jupyter notebooks (`.ipynb` files) so you can easily run the code, see the output, and debug it as needed. 🖥️🔍
 
+I will keep updating this repository during my learning journey. Stay tuned for more content! 🔄📈
+
 Wishing you the best of luck in your Python learning and interview preparation! 🍀📘
 
 
@@ -41,5 +43,3 @@ This repository covers various aspects of Python programming and problem-solving
 - **Quick References**: Summarized references for quick lookup of important concepts and functions.
 - **Links and Q/A**: Useful links and a Q&A section to address common questions.
 - **Appendix**: Additional notes and resources.
-
-
